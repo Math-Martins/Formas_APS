@@ -1,0 +1,30 @@
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.exe.config
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.exe
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.pdb
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.AssemblyReference.cache
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.FrmCadAPS.resources
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.Properties.Resources.resources
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.GenerateResource.cache
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.CoreCompileInputs.cache
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.exe
+D:\Etec\2SEM\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.pdb
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.exe.config
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.exe
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.pdb
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.AssemblyReference.cache
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.FrmCadAPS.resources
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.Properties.Resources.resources
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.GenerateResource.cache
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.exe
+C:\Users\230229\source\repos\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.pdb
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.exe.config
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.exe
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\bin\Debug\WfaExemplo.pdb
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.AssemblyReference.cache
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.FrmCadAPS.resources
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.Properties.Resources.resources
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.GenerateResource.cache
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.exe
+C:\Users\Matheus Martins\Desktop\Códigos\ETEC\APS\SoExemplo\WfaExemplo\obj\Debug\WfaExemplo.pdb
